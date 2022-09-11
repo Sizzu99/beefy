@@ -1,0 +1,34 @@
+/* Navbar Start */
+.navbar-brand{
+    font-family: 'Abril Fatface';
+    font-size: 22px;
+    margin-left: 5px;
+}
+.navbar-nav{
+    margin-left: 100px;
+}
+.link{
+    margin-left: 15px;
+}
+.nav-link{
+    font-family: 'Allerta';
+    font-weight: bold;
+}
+.amount{
+    margin-left: 200px;
+}
+.dropdown{
+    margin-left: 30px;
+}
+.record{
+    margin-left: 40px;
+    margin-top: 5px;
+}
+.icon{
+    padding: 8px;
+    color: rgb(247, 247, 108);
+}
+.connect-wallet{
+    width: 200px;
+}
+/* Navbar End */
