@@ -63,6 +63,7 @@
     margin-left: 320px;
 }
 /* 2st section end */
+/* 3rd section Start */
 .third-section{
     background-color: rgb(54, 54, 90)
 }
@@ -76,8 +77,17 @@
     padding-top: 10px;
     padding-bottom: 10px;
 }
+/* 3rd section End */
+.four-section{
+    background-color: rgb(54, 54, 90)
+}
 
-
+.cancle{
+    margin-right: 10px;
+}
+.nav-link{
+    background-color: rgb(66, 66, 94); ;
+}
 
 
 
