@@ -1,4 +1,6 @@
+
 /* Navbar Start */
+
 .navbar-brand{
     font-family: 'Abril Fatface';
     font-size: 22px;
@@ -32,3 +34,51 @@
     width: 200px;
 }
 /* Navbar End */
+/* 1st section start */
+.portfolio{
+    margin-top: 10px;
+}
+.eye{
+    color: green;
+    margin-left: 5px;
+}
+.platform{
+    margin-left:1050px;
+    margin-top: 10px;
+}
+/* 1st section end */
+/* 2st section Start */
+.account-div{
+    margin-top: 25px;
+}
+.account{
+    margin-left: 60px;
+}
+.info{
+    color: rgb(224, 168, 168);
+    margin-left: 10px;
+}
+.right{
+    text-align: right;
+    margin-left: 320px;
+}
+/* 2st section end */
+.third-section{
+    background-color: rgb(54, 54, 90)
+}
+.button{
+    background-color: rgb(66, 66, 94);
+    margin-left: 23px;
+}
+.home{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+
+
+
+
