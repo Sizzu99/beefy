@@ -85,8 +85,9 @@
 .cancle{
     margin-right: 10px;
 }
-.nav-link{
-    background-color: rgb(66, 66, 94); ;
+.nav-link-icon{
+    background-color: rgb(66, 66, 94);
+    margin-left: 15PX;
 }
 
 
